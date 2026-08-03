@@ -29,13 +29,23 @@ body {
 
 main {
     flex: 1;
-    
-}
-.cabecalho-link{
-color: burlywood;
 
 }
-h1{
-  color: burlywood;
-  
+
+.cabecalho-link {
+    color: burlywood;
+    text-decoration: none;
+
+}
+
+h1 {
+    color: burlywood;
+
+}
+
+.footer {
+    background-color: brown;
+    padding: 15px 15px;
+    color: beige;
+
 }
